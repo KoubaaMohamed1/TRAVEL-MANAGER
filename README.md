@@ -2,6 +2,7 @@
 Travel-Manager is a simple CMD application for managing a travel agency coded in C language. It allows users to view all available trips between two dates and manage the dates of the trips.
 
 Travel-Manager also has the following features:
+
 ajouter(): adds a new trip to the list of trips.
 description(): displays the description of a specific trip.
 supprimer(): removes a trip from the list of trips.
